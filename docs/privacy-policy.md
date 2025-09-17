@@ -7,9 +7,9 @@ Esta Política describe cómo tratamos los datos de las personas que interactúa
 ---
 
 ## 1. Identidad y Contacto del Responsable
-- **Nombre legal:** *[Sustituye por razón social]*  
-- **Domicilio:** *[Sustituye por domicilio]*  
-- **Correo de contacto:** *[correo_de_contacto@tu-dominio.com]*
+- Nombre legal: Melia & Data 
+- WEB: https://www.meliadata.com 
+- Correo de contacto: contacto@meliadata.com
 
 ## 2. Alcance
 Esta Política aplica a las funciones de la App relacionadas con **mensajes directos (DMs) de Instagram** (Instagram Professional/Business). No tiene por objeto el público infantil y requiere que los usuarios finales tengan al menos **13 años**.
@@ -82,4 +82,4 @@ Podemos actualizar esta Política. Publicaremos la nueva versión con **fecha de
 ---
 
 **Vigencia:** desde 12 de septiembre de 2025.  
-© *[Sustituye por razón social]*. Todos los derechos reservados.
+© Melia & Data. Todos los derechos reservados.
